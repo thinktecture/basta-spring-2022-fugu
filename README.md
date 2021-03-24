@@ -1,0 +1,3 @@
+# Produktivitäts-PWAs mit Angular auf Desktopniveau
+
+Progressive Web Apps (PWA) sind ein plattformübergreifend einsetzbares Anwendungsmodell auf Webbasis. Dank Project Fugu, einer Initiative der Chrome-Beitragenden Google, Microsoft und Intel, wird das Web um noch mächtigere Features erweitert. Damit können Entwickler endlich auch Produktivitäts-Apps wie Büro- und Bearbeitungsprogramme oder IDEs sinnvoll ins Web bringen. In dieser Session zeigt Ihnen Christian Liebel, wie Sie mit Angular Produktivitäts-Apps auf Desktopniveau entwickeln können – Zugriff auf das Dateisystem und die Zwischenablage sowie Dateizuordnungen inklusive.
